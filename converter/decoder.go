@@ -3,6 +3,8 @@ package converter
 import (
 	"encoding/xml"
 	"io"
+
+	"github.com/vinser/u8xml"
 )
 
 type fb2decoder struct {
@@ -38,7 +40,7 @@ func (c *FB2Converter) decoder() (*fb2decoder, error) {
 	}
 
 	return &fb2decoder{
-		Decoder: xml.NewDecoder(f),
+		Decoder: u8xml.NewDecoder(f),
 		f:       f,
 	}, nil
 }

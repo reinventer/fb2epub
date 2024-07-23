@@ -1,0 +1,6 @@
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/vinser/u8xml v0.1.2 h1:vUSUw4Qt4X+NzdTbHuy1k7VXBlMStbjox7BRIckkGBk=
+github.com/vinser/u8xml v0.1.2/go.mod h1:3sI5qizpZWe+0MnzYldwo4V6r0/gA64vL7cJj0xZGQc=
+golang.org/x/text v0.16.0 h1:a94ExnEXNtEwYLGJSIUxnWoxoRz/ZcCsV63ROupILh4=
+golang.org/x/text v0.16.0/go.mod h1:GhwF1Be+LQoKShO3cGOHzqOgRrGaYc9AvblQOmPVHnI=
